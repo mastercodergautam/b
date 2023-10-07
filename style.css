@@ -1,0 +1,18 @@
+body{
+    background:violet;
+}
+span{
+    font-size:30px;
+
+}
+#timer{
+    margin-right:100px;
+    float:right;
+}
+#score{
+    margin-left:50px;
+    float:left;
+}
+p{
+    font-size:25px;
+}
